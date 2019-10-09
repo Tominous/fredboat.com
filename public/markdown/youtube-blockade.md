@@ -6,9 +6,12 @@ It appears that YouTube has started blocking any Discord music bot of moderate s
 
 In the meanwhile, you will be able to use [FredBoat Patron](https://www.patreon.com/fredboat). FredBoat Patron only able to play from YouTube because it is a very small bot. While we would love to provide music from YouTube for free, that is currently not possible.
 
-**Disclaimer:** The patron bot may still get hit by this ratelimit. We're doing all we can to avoid that.
+**Disclaimer:** The patron bot may still get hit by this ratelimit. We're doing all we can to avoid that. 
 
 Other sources of music such as SoundCloud and Bandcamp are unaffected. If you have any questions, you can reach us on our [Discord server](https://discord.gg/cgPFW4q).
+
+
+**Update:** Soundcloud seems to be broken for most bots for unrelated reasons.
 
 Thank you for your understanding!
 
