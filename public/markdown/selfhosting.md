@@ -55,9 +55,9 @@ You may want to read these configuration files, as they contain a few advanced o
 
 - The `selfhosting.yml` explains some Windows platform specific configuration for the database, how to configure FredBoat builds, and how to enable automatic updates, as well as the setup for fetching the proper backend.
 
-- The `fredboat.yaml` file holds the master setup for FredBoat and tells you what tokens and codes and passwords are needed, which are optional, and where to get them, shows the settings to configure the backend database connection, logging options, and various important setup criteria. This single file replaces the old `credentials.yaml` and `config.yaml` files.
+- The `fredboat.yml` file holds the master setup for FredBoat and tells you what tokens and codes and passwords are needed, which are optional, and where to get them, shows the settings to configure the backend database connection, logging options, and various important setup criteria. This single file replaces the old `credentials.yml` and `config.yml` files.
 
-- The `quarterdeck.yaml` file holds the configuration options for the backend (Quarterdeck) database. The basic credentials setup here are used in `fredboat.yaml` and must match.
+- The `quarterdeck.yml` file holds the configuration options for the backend (Quarterdeck) database. The basic credentials setup here are used in `fredboat.yml` and must match.
 
 Got all those things together? Continue reading below to learn how to set up config and credentials files, then proceed with the instructions on how to run FredBoat with docker-compose.
 
