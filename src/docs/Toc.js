@@ -4,7 +4,7 @@ import TocHeader from "./TocHeader";
 
 class Toc extends Component {
 
-    /*
+    
     checkAdblock(instance) {
 
          // Carbon is whitelisted
@@ -27,7 +27,7 @@ class Toc extends Component {
             }));
         }, 100);
 
-    }*/
+    }
 
     render() {
         return (
